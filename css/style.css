@@ -61,7 +61,7 @@ header {
 
 .menu a:hover,
 .menu a.active {
-  color: #d400ff;
+  color: #fca400;
 }
 
 .hero {
@@ -257,7 +257,7 @@ main section,
 .stat-card {
   padding: 32px;
   border-radius: 30px;
-  background: white;
+  background: rgb(229, 255, 0);
   border: 1px solid #e2e8f0;
   box-shadow: 0 14px 34px rgba(15, 23, 42, 0.08);
 }
@@ -270,7 +270,7 @@ main section,
 .stat-card.accent {
   grid-column: 1 / -1;
   background: #0e7490;
-  color: white;
+  color: rgb(0, 255, 179);
 }
 
 .stat-number {
